@@ -21,4 +21,4 @@ I have sections for:
 
 In the end of the day, however you have decided to organise your database, the raw data entry is here so you don't have to spend hours finding it and typing it in. 
 
-Please use, enjoy and buy me a cup of coffee sometime if you appreciate. 
+Please use, enjoy and buy me a cup of coffee someday if you appreciate :)
