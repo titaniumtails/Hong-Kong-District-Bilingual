@@ -1,4 +1,4 @@
-Hong-Kong-Districts
+Hong Kong Districts (Bilingual) - 香港市區(中英文)
 ===================
 
 A bilingaul English & Chinese seed database of all the major districts &amp; areas of Hong Kong.
